@@ -1,0 +1,6 @@
+# Libre Office
+.~lock.*
+
+# OSX
+*.DS_Store
+._*
