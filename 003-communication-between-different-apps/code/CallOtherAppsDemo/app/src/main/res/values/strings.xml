@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CallOtherAppsDemo</string>
+    <string name="action_pick_phone_number">Pick Phone Number</string>
+    <string name="msg_no_phone_number_found">No phone number found</string>
+</resources>
