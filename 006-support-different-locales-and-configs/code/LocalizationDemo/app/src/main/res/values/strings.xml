@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LocalizationDemo</string>
+
+    <!-- colors -->
+    <string name="color_black">Black</string>
+    <string name="color_orange">Orange</string>
+    <string name="color_pink">Pink</string>
+    <string name="color_green">Green</string>
+    <string name="color_blue">Blue</string>
+    <string name="color_yellow">Yellow</string>
+    <string name="color_red">Red</string>
+    <string name="color_brown">Brown</string>
+    <string name="color_purple">Purple</string>
+</resources>

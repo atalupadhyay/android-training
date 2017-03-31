@@ -1,0 +1,10 @@
+<resources>
+    <!-- colors -->
+    <string name="color_black">Чорний</string>
+    <string name="color_orange">Помаранчевий</string>
+    <string name="color_pink">Рожевий</string>
+    <string name="color_green">Зелений</string>
+    <string name="color_blue">Синій</string>
+    <string name="color_yellow">Жовтий</string>
+    <string name="color_brown">Коричневий</string>
+</resources>
